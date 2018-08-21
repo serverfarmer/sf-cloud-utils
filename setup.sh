@@ -1,6 +1,7 @@
 #!/bin/sh
 
 /opt/farm/scripts/setup/extension.sh sf-cloud-client-ec2
+/opt/farm/scripts/setup/extension.sh sf-cloud-client-azure
 
 if ! grep -q /opt/farm/ext/cloud-utils/cron /etc/crontab; then
 	echo "setting up crontab entry"
