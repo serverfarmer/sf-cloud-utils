@@ -1,2 +1,3 @@
-sf-cloud-utils extension provides several important utility scripts
-to work with various cloud providers, eg. Amazon EC2.
+This extension is now deprecated. Cloud Farmer has been renamed to Polynimbus:
+
+https://github.com/polynimbus/polynimbus
